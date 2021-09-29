@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhit-linx2
 - 👀 I’m interested in swimming, reading and hunting
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning ML, DRL, RL
 - 💞️ I’m looking to collaborate on machine learning
 
 
